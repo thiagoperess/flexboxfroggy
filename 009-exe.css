@@ -1,0 +1,13 @@
+/* Flexbox Froggy
+
+Ajude os sapos a encontrar sua coluna de vitórias-régias usando flex-direction. Esta propriedade CSS define a direção em que os itens são posicionados no container e aceita os seguintes valores:
+
+    row: Itens são posicionados na mesma direção do texto.
+    row-reverse: Itens são posicionados na direção oposta à do texto.
+    column: Itens são posicionados de cima para baixo.
+    column-reverse: Itens são posicionados de baixo para cima. */
+
+#pond {
+    display: flex;
+    flex-direction: column;
+}

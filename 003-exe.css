@@ -1,0 +1,10 @@
+/* Flexbox Froggy
+
+Ajude todos os três sapos a encontrar suas vitórias-régias usando justify-content. Desta vez, as vitórias-régias têm muito espaço em torno delas.
+
+Caso você esqueça os possíveis valores de uma propriedade, passe o cursor sobre a propriedade para visualizá-los. Tente passar o cursor sobre justify-content. */
+
+#pond {
+    display: flex;
+    justify-content: space-around;;
+}

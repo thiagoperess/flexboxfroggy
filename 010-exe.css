@@ -1,0 +1,11 @@
+/* Flexbox Froggy
+
+Ajude os sapos a encontrar suas próprias vitórias-régias. Elas parecem estar próximas, mas você precisará de ambas propriedades, flex-direction e justify-content, para levá-los lá.
+
+Note que quando você define a direção para uma linha ou coluna reversa, start e end também são reversos. */
+
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:flex-end;
+}

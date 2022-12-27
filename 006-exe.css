@@ -1,0 +1,9 @@
+/* Flexbox Froggy
+
+Leve o sapo ao centro da lagoa usando uma combinação de justify-content e align-items. */
+
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

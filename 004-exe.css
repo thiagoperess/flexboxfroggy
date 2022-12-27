@@ -1,0 +1,11 @@
+/* 
+Flexbox Froggy
+
+Agora as vitórias-régias nos cantos desviaram-se para a costa, aumentando o espaço em torno delas. Use justify-content. Desta vez, as vitórias-régias têm espaço igual entre elas. */
+
+
+#pond {
+  display: flex;
+  justify-content: space-between;
+}
+

@@ -1,0 +1,14 @@
+/* Flexbox Froggy
+
+Agora use align-items para levar os sapos ao fundo da lagoa. Essa propriedade CSS alinha os itens verticalmente e aceita os seguintes valores:
+
+    flex-start: Itens se alinham na parte de cima do container.
+    flex-end: Itens se alinham na parte de baixo do container.
+    center: Itens se alinham no centro vertical do container.
+    baseline: Items se alinham na linha da base do container.
+    stretch: Itens se esticam para preencher o container. */
+
+#pond {
+    display: flex;
+    align-items: flex-end;
+}

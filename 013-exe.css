@@ -1,0 +1,10 @@
+/* Flexbox Froggy
+
+Ajude os sapos a encontrar suas vitórias-régias usando flex-direction, justify-content e align-items. */
+
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end
+}

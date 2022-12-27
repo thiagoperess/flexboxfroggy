@@ -1,0 +1,13 @@
+/* Flexbox Froggy
+
+Combine order e align-self para levar os sapos aos seus destinos. */
+
+#pond {
+    display: flex;
+    align-items: flex-start;
+}
+
+.yellow {
+    order: 4;
+    align-self: flex-end;
+}
